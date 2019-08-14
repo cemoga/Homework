@@ -1,10 +1,13 @@
 # Homework
 
-## Topic:	    #### Excel
+## Topic:	   
+#### Excel
 
-## Student:	  #### Cesar Mosquera
+## Student:	 
+#### Cesar Mosquera
 
-## Date:		  #### August 14, 2019
+## Date:
+#### August 14, 2019
 
 Attached you can find two files containing the homework for the first topic of excel.
 
